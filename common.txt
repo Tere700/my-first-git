@@ -1,6 +1,6 @@
 Hello common in my.txt
 456
-Hello common in other.txt
-1
-2
-3
+Hello common in feature1.txt
+18
+27
+30
