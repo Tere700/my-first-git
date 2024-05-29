@@ -1,5 +1,5 @@
-Hello common in my.txt
-456
+Hello common in feature2.txt
+777
 Hello common in feature1.txt
 18
 27
