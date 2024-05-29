@@ -1,2 +1,6 @@
 Hello common in my.txt
 456
+Hello common in other.txt
+1
+2
+3
